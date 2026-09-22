@@ -165,7 +165,6 @@ A collection of HVAC engineering studies covering building cooling-load calculat
 | CAD | SolidWorks, AutoCAD, Inventor, Fusion 360 |
 | HVAC | HAP, AutoCAD |
 | Robotics | ROS 2, RViz, MoveIt |
-| Programming | C/C++, Arduino, MATLAB |
 | Manufacturing | CNC, 3D CAD, Prototyping |
 | Electrical | Arduino, Control Systems |
 | Documentation | Microsoft Office |
