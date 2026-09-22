@@ -183,9 +183,6 @@ MSA University — Egypt
 **GitHub:**  
 https://github.com/yahiaalaaeldin-coder
 
-**LinkedIn:**  
-Add your LinkedIn profile here
-
 **Email:**  
 yahia.alaaeldin@msa.edu.eg
 
