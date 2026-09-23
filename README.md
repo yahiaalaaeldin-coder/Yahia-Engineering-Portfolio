@@ -79,7 +79,8 @@ A compact CNC-based Braille embossing machine designed to convert digital text i
 **Technologies:**  
 `SolidWorks` `Arduino` `CNC` `RAMPS 1.4` `NEMA 17` `A4988` `CAD`
 
-[View Project →]gh repo clone yahiaalaaeldin-coder/Braylix-CNC-Braille-Machine
+[**View Braylix Project on GitHub →**](https://github.com/yahiaalaaeldin-coder/Braylix-CNC-Braille-Machine)
+
 
 ---
 
